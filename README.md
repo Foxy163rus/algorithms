@@ -1,2 +1,2 @@
 # algorithms
-Python algorithms
+Algorithms on python
